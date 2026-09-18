@@ -1,65 +1,22 @@
-# Hi, I’m Tatenda 👋
+# Hi, I’m Tatenda Bvocho
 
-I’m a **Software Engineering student** and **Software Developer** with a strong interest in building practical, user-focused applications. I enjoy turning real-world problems into clean, efficient, and scalable software solutions.
+Software Developer based in Windhoek, Namibia. I build practical full-stack web applications and software systems with a focus on reliable backend logic, useful interfaces, and secure data handling.
 
----
+## What I build
 
-## 🚀 About Me
-- 🎓 Software Engineering student
-- 📱 Mobile & Web Application Developer
-- 🧠 Strong foundation in problem-solving and algorithms
-- 🏗️ Experience working on real-world systems for sports organizations
-- 🌱 Continuously learning and improving my skills
+- **[SubscriptionTracker](https://github.com/tidex-tb/Subscription-Tracker)** — an ASP.NET Core application for recurring payments, trials, receipts, reminders, and spending insights.
+- **[NHAG Savings Management System](https://github.com/tidex-tb/NHAG-Project)** — a PHP and CodeIgniter system for member savings, contributions, ledgers, reporting, and statements.
+- **[Namibia Hockey Union Application](https://github.com/tidex-tb/Namibia-Hockey-Union-App)** — an Android application for accounts, team registration, fixtures, and profile management.
 
----
+## Core stack
 
-## 🛠️ Tech Stack
-**Languages**
-- Kotlin
-- Java
-- Python
-- TypeScript
-- JavaScript
+`C#` · `ASP.NET Core` · `Entity Framework Core` · `PHP` · `CodeIgniter` · `SQL` · `MySQL` · `SQLite` · `JavaScript` · `Kotlin` · `Jetpack Compose` · `Firebase`
 
-**Frameworks & Tools**
-- Android (Jetpack Compose)
-- Firebase (Auth, Firestore, Storage)
-- Angular
-- Git & GitHub
-- REST APIs
+## Currently strengthening
 
-**Other Skills**
-- Frontend & Backend Development
-- Database Design
-- Authentication & Authorization
-- Agile & Project-Based Development
+Backend engineering, full-stack architecture, testing, security, and production-ready ASP.NET Core development.
 
----
+## Connect
 
-## 📌 Featured Projects
-### 🏑 Namibia Hockey Union App
-A mobile application built to manage:
-- Player registration & contracts  
-- Team and player tracking  
-- Announcements & communication  
-- Secure authentication using Firebase  
-
-**Tech Used:** Kotlin, Firebase, Jetpack Compose
-
----
-
-### 📊 Pathfinding Visualization (A*)
-A Python-based visualization of the A* pathfinding algorithm using Pygame, focused on algorithm understanding and visual clarity.
-
----
-
-## 🎯 Goals
-- Secure a **Software Engineering / Developer Job**
-- Grow as a **full-stack and mobile developer**
-- Build impactful software used by real people
-
----
-
-## 📫 Let’s Connect
-- GitHub: https://github.com/tidex-tb
-- Email: tbvocho07@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/tatenda-bvocho)
+- [Email](mailto:tbvocho07@gmail.com)
